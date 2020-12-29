@@ -6,7 +6,7 @@
 
 ## Snapshot
 
-[![zoom_clone]()](https://zoom--clone--app.herokuapp.com)
+[![zoom_clone](https://res.cloudinary.com/kirankumargonti/image/upload/v1609224848/Kirankumargonti/projects/latest_Projects/Screenshot_255_kquyuy.png)](https://zoom--clone--app.herokuapp.com)
 
 ## Quick Start
 
