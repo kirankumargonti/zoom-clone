@@ -22,6 +22,6 @@
 
 ## Project Changes
 
-1. Change the Peer port number 443 to 5000 in **_`public/main.js`_** file if you're runnign in developing mode
+1. Change the Peer port number 443 to 5000 in **_`public/main.js`_** file if you're runnign in development mode
 
 2. For production change it to 443 (for Heroku deployment)
